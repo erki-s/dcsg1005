@@ -22,7 +22,7 @@ Delen av scriptet som kopierer filene bruker også Force parameteret, som gjør 
 
 Jeg la til 2 andre funksjonaliteter som kan hjelpe mot ransomware i tillegg til backup-scriptet. Den første skrur bare på brannmuren hver gang scriptet kjøres. Hvis den allerede er på, skjer ingenting (Den skrur på brannmuren som er allerede på). Dette hjelper med å forebygge mot ransomware, i hvert fall i en liten grad. Den andre funksjonaliteten går gjennom filene i arbeidsområdet, altså $source, og sjekker om det eksisterer noen filer inni mappen med extensions som tidligere har blitt brukt for ransomware. Listen som ligger i scriptet inneholder ikke mer enn noen få, men en stor liste av disse kan bli funnet [her](https://avepointcdn.azureedge.net/assets/webhelp/compliance_guardian_installation_and_administration/index.htm#!Documents/ransomwareencryptedfileextensionlist.htm). Grunnen til at jeg la til denne delen av scriptet, er for å hjelpe med å hindre spredning av ransomware mellom enheter i et nettverk ved å ta bort den påvirkede enheten fra dette nettverket.
 
-## Discussion, incl security aspects
+## Fordeler, ulemper og sikkerhet
 
 Scriptet er ganske enkelt for brukeren å sette opp, siden det eneste de trenger å gjøre er å endre filplasseringene. Etter scriptet er helt satt opp, trenger ikke brukeren lenger å gjøre noe etterpå.
 
