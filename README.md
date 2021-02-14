@@ -1,6 +1,6 @@
 # Beskyttelse mot randomware med Powershell
 
-GIT REPOET FOR DENNE PORTEFOLIEN ER: https://gitlab.stud.idi.ntnu.no/erkis/dscg1005
+GIT REPOET FOR DENNE PORTEFOLIEN ER: https://gitlab.stud.idi.ntnu.no/erkis/dcsg1005
 
 [[_TOC_]]
 
