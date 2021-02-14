@@ -42,7 +42,12 @@ For å konkludere, tror jeg at jeg laget et script som på en pålitelig måte k
 Kilder som jeg brukte: 
 
 [Scheduled tasks](https://adamtheautomator.com/powershell-scheduled-task/)
+
 [Scheduled task principal](https://docs.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtaskprincipal?view=win10-ps)
+
 [Ransomware extensions](https://avepointcdn.azureedge.net/assets/webhelp/compliance_guardian_installation_and_administration/index.htm#!Documents/ransomwareencryptedfileextensionlist.htm)
+
 [Task scheduler hidden window](https://stackoverflow.com/a/1802183)
+
 [Mounting/Unmounting](https://gitlab.com/erikhje/dcsg1005/-/blob/master/powershell.md#mounting-and-unmounting-disks)
+
