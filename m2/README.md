@@ -1,7 +1,5 @@
 # Active Directory med Powershell
 
-GIT REPOET FOR DENNE PORTEFOLIEN ER: https://gitlab.stud.idi.ntnu.no/erkis/dcsg1005-m2
-
 [[_TOC_]]
 
 ## Målet med prosjektet
