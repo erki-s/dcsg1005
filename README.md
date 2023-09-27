@@ -1,4 +1,4 @@
-# Beskyttelse mot randomware med Powershell
+# Beskyttelse mot ransomware med Powershell
 
 GIT REPOET FOR DENNE PORTEFOLIEN ER: https://gitlab.stud.idi.ntnu.no/erkis/dcsg1005
 
